@@ -1,0 +1,4 @@
+pyqt5
+pyusb
+psutil
+nvidia-ml-py3
